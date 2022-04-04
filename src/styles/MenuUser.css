@@ -1,0 +1,29 @@
+.MenuUser {
+    display: flex;
+    position: relative;
+}
+.MenuUser ul {
+    display: block;
+    position: absolute;
+    width: 285px;
+    background: var(--White);
+    box-shadow: 1px 1px 5px #ccc;
+    border-radius: 3px;
+
+    top: 40px;
+    left: -200px;
+    z-index: 1;
+}
+.MenuUser ul li {
+    font-size: 1.4rem;
+    font-weight: 500;
+    list-style: none;
+    padding: 15px;
+}
+.MenuUser ul li a {
+    text-decoration: none;
+    color: var(--Dark-grayish-blue);
+}
+.MenuUser .sign-out {
+    color: var(--Very-vark-blue);
+}
