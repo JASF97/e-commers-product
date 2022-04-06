@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/e-commers-product/static/css/main.da1897b2.css",
+    "main.js": "/e-commers-product/static/js/main.fe09695b.js",
+    "static/js/787.59ccf062.chunk.js": "/e-commers-product/static/js/787.59ccf062.chunk.js",
+    "static/media/logo.svg": "/e-commers-product/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "index.html": "/e-commers-product/index.html",
+    "static/media/icon-cart.svg": "/e-commers-product/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-plus.svg": "/e-commers-product/static/media/icon-plus.b297868c5f938612f4f099f9f9d73aea.svg",
+    "static/media/shopping_cart.svg": "/e-commers-product/static/media/shopping_cart.46cb7d4b356f96f7ba56278ed3f0bcbd.svg",
+    "static/media/icon-minus.svg": "/e-commers-product/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
+    "static/media/icon-menu.svg": "/e-commers-product/static/media/icon-menu.c6107d03f1edcf73523ebd8cbc50a443.svg",
+    "main.da1897b2.css.map": "/e-commers-product/static/css/main.da1897b2.css.map",
+    "main.fe09695b.js.map": "/e-commers-product/static/js/main.fe09695b.js.map",
+    "787.59ccf062.chunk.js.map": "/e-commers-product/static/js/787.59ccf062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da1897b2.css",
+    "static/js/main.fe09695b.js"
+  ]
+}
